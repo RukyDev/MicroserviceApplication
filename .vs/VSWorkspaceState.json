@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\MicroserviceApp",
+    "\\src\\services",
+    "\\src\\services\\catalog",
+    "\\src\\services\\catalog\\Catalog.Api"
+  ],
+  "PreviewInSolutionExplorer": false
+}
